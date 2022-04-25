@@ -111,7 +111,11 @@ main li {
     width: 75%;
 }
 
-img:hover {
+#img_2:hover {
+    padding-right: 3px;
+}
+
+#img_1:hover {
     padding-right: 3px;
 }
 
